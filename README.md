@@ -5,8 +5,6 @@ This repository holds a joke of the comprehensiveness of black-crowned heron  --
 
 中华田园企鹅大全
 
-<style>img {width: 250px; aspect-ratio: 1 / 1; object-fit: contain;}</style>
-
 # 常见鸟类辨识图鉴
 |![海鸥](./images/Seagull.png)|![鸊鷉](./images/Grebes.png)|![企鹅](./images/Penguin.png)|![苇鳽](/images/Bitterns.png)|
 |:--:|:--:|:--:|:--:|
